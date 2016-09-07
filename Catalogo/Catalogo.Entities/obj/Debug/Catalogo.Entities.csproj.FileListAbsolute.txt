@@ -1,0 +1,10 @@
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\Catalogo.Entities.dll.config
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\Catalogo.Entities.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\Catalogo.Entities.pdb
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\EntityFramework.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\EntityFramework.xml
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\obj\Debug\Catalogo.Entities.csprojResolveAssemblyReference.cache
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\obj\Debug\Catalogo.Entities.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities\obj\Debug\Catalogo.Entities.pdb

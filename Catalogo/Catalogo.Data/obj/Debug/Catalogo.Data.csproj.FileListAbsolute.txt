@@ -1,0 +1,16 @@
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Data\obj\Debug\Catalogo.Data.csprojResolveAssemblyReference.cache
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Data.dll.config
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Data.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Data.pdb
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\AutoMapper.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Entities.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Entities.Dto.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\EntityFramework.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Entities.Dto.pdb
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\Catalogo.Entities.pdb
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\AutoMapper.xml
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\EntityFramework.xml
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\obj\Debug\Catalogo.Data.dll
+C:\Users\franciscoblanco\Documents\Visual Studio 2015\Projects\Catalogo\Catalogo.Data\obj\Debug\Catalogo.Data.pdb

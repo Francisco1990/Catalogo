@@ -1,0 +1,5 @@
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities.Dto\bin\Debug\Catalogo.Entities.Dto.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities.Dto\bin\Debug\Catalogo.Entities.Dto.pdb
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities.Dto\obj\Debug\Catalogo.Entities.Dto.csprojResolveAssemblyReference.cache
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities.Dto\obj\Debug\Catalogo.Entities.Dto.dll
+c:\Users\franciscoblanco\documents\visual studio 2015\Projects\Catalogo\Catalogo.Entities.Dto\obj\Debug\Catalogo.Entities.Dto.pdb
