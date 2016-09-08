@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.Data", "Catalogo.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicioWeb", "ServicioWeb\ServicioWeb.csproj", "{C8CF3B75-EDF4-4E3D-A63E-C16D2B5CE8EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catalogo.Bussines", "Catalogo.Bussines\Catalogo.Bussines.csproj", "{2523F8EB-E0A0-4CCF-864A-45996BF4A2B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C8CF3B75-EDF4-4E3D-A63E-C16D2B5CE8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8CF3B75-EDF4-4E3D-A63E-C16D2B5CE8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8CF3B75-EDF4-4E3D-A63E-C16D2B5CE8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2523F8EB-E0A0-4CCF-864A-45996BF4A2B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2523F8EB-E0A0-4CCF-864A-45996BF4A2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2523F8EB-E0A0-4CCF-864A-45996BF4A2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2523F8EB-E0A0-4CCF-864A-45996BF4A2B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

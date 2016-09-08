@@ -54,6 +54,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cetegoria\CategoriaData.cs" />
+    <Compile Include="Interface\IBaseData.cs" />
+    <Compile Include="Interface\ICategoriaData.cs" />
     <Compile Include="Producto\ProductoData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
